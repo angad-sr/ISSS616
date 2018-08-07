@@ -1,0 +1,12 @@
+name: SingaporeProperties
+title: SingaporeProperties
+username:
+account: angad-sr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 331801
+bundleId: 1342391
+url: https://angad-sr.shinyapps.io/SingaporeProperties/
+when: 1524804640.80962
+asMultiple: FALSE
+asStatic: FALSE
